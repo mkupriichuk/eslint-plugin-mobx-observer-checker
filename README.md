@@ -4,9 +4,15 @@
 
 ## Table of Contents
 
+* [Installation](#installation)
 * [What you need for linter works](#what-you-need-for-linter-works)
 * [Example](#example)
 
+# Installation
+
+```sh
+$ npm install eslint-plugin-mobx-observer-checker --save-dev
+```
 
 ## What you need for linter works
 
