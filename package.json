@@ -1,0 +1,14 @@
+{
+	"name": "eslint-plugin-mobx-observer-checker",
+	"version": "1.0.0",
+	"description": "Plugin for eslint that checks whether you have wrapped the component in the observer when using the store",
+	"main": "index.js",
+	"repository": "mkupriichuk/eslint-plugin-mobx-observer-checker",
+	"homepage": "https://github.com/mkupriichuk/eslint-plugin-mobx-observer-checker#readme",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["eslint", "mobx-eslint", "observer", "mobx-eslint-observer"],
+	"author": "Maksym Kupriichuk",
+	"license": "ISC"
+}
